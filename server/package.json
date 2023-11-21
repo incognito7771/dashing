@@ -1,5 +1,5 @@
 {
-  "name": "@dashing/server",
+  "name": "@shiftmate/server",
   "private": true,
   "scripts": {
     "start": "nest start",
